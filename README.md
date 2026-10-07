@@ -9,7 +9,7 @@
 ```
 content/            默认语言内容，TOML、Markdown、BibTeX 按需编辑
 content_zh/         中文内容，文件名与 content/ 一一对应
-public/             静态资源，头像与站点图标
+public/             静态资源，头像 avatar.jpg 与站点图标 favicon.svg
 src/                Next.js 源码，组件与样式
 draft/              临时材料，旧版站点、模板文档与预览截图
 out/                构建产物，不提交
@@ -71,7 +71,7 @@ python3 draft/shoot-prism.py
 - `content/about.toml` 的研究兴趣
 - `content/publications.bib` 的三条示例论文
 - `content/projects.toml` `content/awards.toml` `content/cv.md`
-- `public/avatar.png` 目前是 GitHub 默认头像，换成正式照片，建议正方形且不小于 512 像素
+- `public/avatar.jpg` 头像是 512 像素方图，换新照片时保持正方形且不小于 512 像素
 
 ## 许可
 
