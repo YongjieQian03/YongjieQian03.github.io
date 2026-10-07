@@ -1,0 +1,19 @@
+type = "card"
+title = "Projects"
+description = "Selected projects I have built or contributed to."
+
+[[items]]
+title = "Project Name"
+subtitle = "Your Role"
+date = "2026"
+content = "One paragraph on what the project does, what you contributed, and the outcome. Links can be written as [text](https://example.com)."
+tags = ["Language", "Framework"]
+link = "https://github.com/YongjieQian03"
+
+[[items]]
+title = "Project Name"
+subtitle = "Your Role"
+date = "2025"
+content = "One paragraph on what the project does, what you contributed, and the outcome."
+tags = ["Language", "Tool"]
+link = "https://github.com/YongjieQian03"

@@ -1,0 +1,19 @@
+type = "card"
+title = "项目"
+description = "我参与或主导的项目。"
+
+[[items]]
+title = "项目名称"
+subtitle = "你承担的角色"
+date = "2026"
+content = "用一段话说明项目做什么、你负责的部分，以及最终结果。链接写成 [文字](https://example.com) 即可。"
+tags = ["语言", "框架"]
+link = "https://github.com/YongjieQian03"
+
+[[items]]
+title = "项目名称"
+subtitle = "你承担的角色"
+date = "2025"
+content = "用一段话说明项目做什么、你负责的部分，以及最终结果。"
+tags = ["语言", "工具"]
+link = "https://github.com/YongjieQian03"

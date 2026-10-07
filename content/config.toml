@@ -1,0 +1,73 @@
+[site]
+title = "Yongjie Qian"
+description = "Personal homepage of Yongjie Qian, working on software engineering and AI systems."
+favicon = "/favicon.svg"
+last_updated = "October 7, 2026"
+
+[author]
+name = "Yongjie Qian"
+title = "Researcher"
+institution = "Your Institution"
+avatar = "/avatar.png"
+
+[social]
+# Fill in what applies and delete the rest. Missing keys hide their icon.
+email = "you@example.com"
+location = "City, Country"
+location_details = [
+  "Building Name, Room 000,",
+  "Street, City, Country"
+]
+google_scholar = "https://scholar.google.com"
+github = "https://github.com/YongjieQian03"
+
+[features]
+# Show a like button under the profile card
+enable_likes = true
+
+# Render every page as one long scrolling page instead of separate routes
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "zh"
+# "auto" follows the browser language, "fixed" always uses fixed_locale
+mode = "auto"
+fixed_locale = "zh"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

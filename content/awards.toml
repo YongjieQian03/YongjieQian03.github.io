@@ -1,0 +1,15 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "Award Name"
+subtitle = "Awarding Body"
+date = "2026"
+content = "One sentence on what the award recognizes."
+
+[[items]]
+title = "Award Name"
+subtitle = "Awarding Body"
+date = "2025"
+content = "One sentence on what the award recognizes."

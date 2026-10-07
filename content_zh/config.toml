@@ -1,0 +1,46 @@
+[site]
+title = "钱永杰"
+description = "钱永杰的个人主页，方向为软件工程与智能系统。"
+last_updated = "2026 年 10 月 7 日"
+
+[author]
+name = "钱永杰"
+title = "研究者"
+institution = "某某大学"
+
+[social]
+location = "城市，国家"
+location_details = [
+  "某某楼 000 室，",
+  "某某路，城市，国家"
+]
+
+[[navigation]]
+title = "关于"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "项目"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "奖项"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

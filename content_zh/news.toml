@@ -1,0 +1,7 @@
+[[news]]
+date = "2026-10"
+content = "用一句话记录近期动态，例如论文被接收或做了报告。"
+
+[[news]]
+date = "2026-01"
+content = "在 content_zh/news.toml 中增删条目即可。"

@@ -1,0 +1,15 @@
+type = "card"
+title = "奖项"
+description = "我获得的荣誉与奖项。"
+
+[[items]]
+title = "奖项名称"
+subtitle = "颁发机构"
+date = "2026"
+content = "用一句话说明该奖项的授予原因。"
+
+[[items]]
+title = "奖项名称"
+subtitle = "颁发机构"
+date = "2025"
+content = "用一句话说明该奖项的授予原因。"

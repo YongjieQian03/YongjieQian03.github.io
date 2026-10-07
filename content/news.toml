@@ -1,0 +1,7 @@
+[[news]]
+date = "2026-10"
+content = "One line about a recent update, for example a paper acceptance or a talk."
+
+[[news]]
+date = "2026-01"
+content = "Add or remove entries by editing content/news.toml."
